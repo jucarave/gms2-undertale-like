@@ -1,1 +1,2 @@
-spd = 1;
+maxHP = 5;
+hp = maxHP;
