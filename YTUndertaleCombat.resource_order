@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"objHeartShard","order":2,"path":"objects/objHeartShard/objHeartShard.yy",},
+    {"name":"sprBrokenHeart","order":2,"path":"sprites/sprBrokenHeart/sprBrokenHeart.yy",},
+    {"name":"tmlAttack2","order":1,"path":"timelines/tmlAttack2/tmlAttack2.yy",},
+    {"name":"scrCollideWithProjectile","order":1,"path":"scripts/scrCollideWithProjectile/scrCollideWithProjectile.yy",},
+    {"name":"objScenario","order":1,"path":"objects/objScenario/objScenario.yy",},
+    {"name":"sprHeartShard","order":1,"path":"sprites/sprHeartShard/sprHeartShard.yy",},
+    {"name":"objBrokenHeart","order":1,"path":"objects/objBrokenHeart/objBrokenHeart.yy",},
+    {"name":"scrKillPlayer","order":2,"path":"scripts/scrKillPlayer/scrKillPlayer.yy",},
+  ],
+}
